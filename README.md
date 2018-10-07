@@ -1,1 +1,1 @@
-laravel_one_to_one_relationship
+Laravel One to One Relationship
